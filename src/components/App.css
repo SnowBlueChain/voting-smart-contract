@@ -1,0 +1,53 @@
+body {
+  color: black;
+  height: 100vh;
+}
+
+.candidate-card {
+  color: white;
+  width: 320px;
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.836);
+}
+
+.account-details {
+  width: max-content;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.flexed-2 {
+  margin-left: 15vh;
+}
+
+.flexed-3 {
+  margin-left: 15vh;
+}
+
+.big-margin {
+  margin-top: 5vh;
+}
+
+.input-form-width {
+  width: max-content;
+}
+
+.main-heading {
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+
+.sub-heading {
+  font-family: 'Playfair Display', serif;
+  color: #000000;
+}
+
+.footer-style {
+  font-family: 'Playfair Display', serif;
+  color: #000000;
+  margin-top: 12vh;
+}
